@@ -1,8 +1,8 @@
 {
   "development": {
     "username": "root",
-    "password": null,
-    "database": "course-express-b34-midtrans",
+    "password": "",
+    "database": "course-express",
     "host": "localhost",
     "dialect": "mysql"
   },
